@@ -1,17 +1,17 @@
-# ?? Proyecto: **NOMBRE DEL PROYECTO** 
+# ğŸ“Œ Proyecto: **NOMBRE DEL PROYECTO** 
 
 ![Status](https://img.shields.io/badge/Status-En_Desarrollo-yellow)  
 ![License](https://img.shields.io/badge/License-MIT-blue)  
 ![PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen)  
 
-## ?? Tabla de Contenidos
+## ğŸ“‹ Tabla de Contenidos
 
-- [Descripción](#descripción)
-- [Demostración](#demostración)
-- [Características](#características)
-- [Instalación](#instalación)
+- [DescripciÃ³n](#descripciÃ³n)
+- [DemostraciÃ³n](#demostraciÃ³n)
+- [CaracterÃ­sticas](#caracterÃ­sticas)
+- [InstalaciÃ³n](#instalaciÃ³n)
 - [Uso](#uso)
-- [Documentación](#documentación)
+- [DocumentaciÃ³n](#documentaciÃ³n)
 - [Contribuciones](#contribuciones)
 - [Roadmap](#roadmap)
 - [Mantenimiento](#mantenimiento)
@@ -19,25 +19,25 @@
 - [Licencia](#licencia)
 - [Agradecimientos](#agradecimientos)
 
-## ?? Descripción
+## ğŸ“ DescripciÃ³n
 
-Breve descripción del proyecto: qué es, para qué sirve y qué problema resuelve.
+Breve descripciÃ³n del proyecto: quÃ© es, para quÃ© sirve y quÃ© problema resuelve.
 
-## ?? Demostración
+## ğŸ¥ DemostraciÃ³n
 
-Si tienes una demostración visual del proyecto, incluye capturas de pantalla o un enlace a un video. Puedes agregar imágenes de la siguiente manera:
+Si tienes una demostraciÃ³n visual del proyecto, incluye capturas de pantalla o un enlace a un video. Puedes agregar imÃ¡genes de la siguiente manera:
 
 ```md
 ![Captura de pantalla](ruta/de/la/imagen.png)
 ```
 
-## ?? Características
+## ğŸš€ CaracterÃ­sticas
 
 - Funcionalidad 1
 - Funcionalidad 2
 - Funcionalidad 3
 
-## ?? Instalación
+## ğŸ“¦ InstalaciÃ³n
 
 Sigue estos pasos para configurar el proyecto localmente:
 
@@ -65,25 +65,25 @@ Sigue estos pasos para configurar el proyecto localmente:
     cp .env.example .env
     ```
 
-## ?? Uso
+## ğŸš€ Uso
 
-Explica cómo se utiliza el proyecto, incluye comandos comunes y ejemplos de código si es necesario.
+Explica cÃ³mo se utiliza el proyecto, incluye comandos comunes y ejemplos de cÃ³digo si es necesario.
 
 ```bash
 npm run start
 ```
 
-## ?? Documentación
+## ğŸ“š DocumentaciÃ³n
 
-Si existe documentación más detallada o extensa para desarrolladores y usuarios del proyecto, proporciona los enlaces relevantes aquí:
+Si existe documentaciÃ³n mÃ¡s detallada o extensa para desarrolladores y usuarios del proyecto, proporciona los enlaces relevantes aquÃ­:
 
-- [Documentación Oficial](https://enlace-a-documentacion.com): Aquí puedes encontrar guías detalladas y referencias completas para el uso del proyecto.
-- [Wiki del Proyecto](https://enlace-a-wiki.com): Accede a recursos adicionales, como guías de instalación avanzadas, guías para el uso de características específicas y mucho más.
-- [Guía de Contribución](./CONTRIBUTING.md): Reglas y recomendaciones para contribuir al proyecto.
+- [DocumentaciÃ³n Oficial](https://enlace-a-documentacion.com): AquÃ­ puedes encontrar guÃ­as detalladas y referencias completas para el uso del proyecto.
+- [Wiki del Proyecto](https://enlace-a-wiki.com): Accede a recursos adicionales, como guÃ­as de instalaciÃ³n avanzadas, guÃ­as para el uso de caracterÃ­sticas especÃ­ficas y mucho mÃ¡s.
+- [GuÃ­a de ContribuciÃ³n](./CONTRIBUTING.md): Reglas y recomendaciones para contribuir al proyecto.
 
-## ?? Contribuciones
+## ğŸ¤ Contribuciones
 
-¡Las contribuciones son bienvenidas! Si deseas contribuir al proyecto, sigue los siguientes pasos:
+Â¡Las contribuciones son bienvenidas! Si deseas contribuir al proyecto, sigue los siguientes pasos:
 
 1. Realiza un **fork** del repositorio.
 2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
@@ -91,42 +91,42 @@ Si existe documentación más detallada o extensa para desarrolladores y usuarios 
 4. Sube los cambios a tu repositorio (`git push origin feature/nueva-funcionalidad`).
 5. Abre un **Pull Request** en el repositorio original.
 
-Para obtener más detalles, consulta el archivo [CONTRIBUTING.md](./CONTRIBUTING.md).
+Para obtener mÃ¡s detalles, consulta el archivo [CONTRIBUTING.md](./CONTRIBUTING.md).
 
-## ?? Roadmap
+## ğŸ“… Roadmap
 
-En esta sección, puedes proporcionar una visión a largo plazo del proyecto, incluyendo nuevas funcionalidades, mejoras y tareas pendientes. Ejemplo:
+En esta secciÃ³n, puedes proporcionar una visiÃ³n a largo plazo del proyecto, incluyendo nuevas funcionalidades, mejoras y tareas pendientes. Ejemplo:
 
-- [ ] Implementar autenticación de usuario.
-- [ ] Optimización del rendimiento de la aplicación.
-- [ ] Integración con API externa para la gestión de datos.
+- [ ] Implementar autenticaciÃ³n de usuario.
+- [ ] OptimizaciÃ³n del rendimiento de la aplicaciÃ³n.
+- [ ] IntegraciÃ³n con API externa para la gestiÃ³n de datos.
 
-## ??? Mantenimiento
+## ğŸ› ï¸ Mantenimiento
 
-El proyecto está actualmente en mantenimiento por [Nombre del Mantenedor](https://github.com/usuario). Si deseas colaborar o necesitas soporte, puedes abrir un **issue** en el repositorio o contactar al mantenedor.
+El proyecto estÃ¡ actualmente en mantenimiento por [Nombre del Mantenedor](https://github.com/usuario). Si deseas colaborar o necesitas soporte, puedes abrir un **issue** en el repositorio o contactar al mantenedor.
 
-## ?? Autores
+## ğŸ‘¥ Autores
 
 - **Nombre del Autor 1** - _Trabajo realizado_ - [GitHub](https://github.com/usuario1)
 - **Nombre del Autor 2** - _Trabajo realizado_ - [GitHub](https://github.com/usuario2)
 
-## ?? Licencia
+## ğŸ“„ Licencia
 
-Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE.md](LICENSE.md) para más detalles.
+Este proyecto estÃ¡ bajo la licencia **MIT**. Consulta el archivo [LICENSE.md](LICENSE.md) para mÃ¡s detalles.
 
-## ?? Agradecimientos
+## ğŸ‰ Agradecimientos
 
-Queremos expresar nuestro agradecimiento a todos aquellos que contribuyeron a este proyecto. También agradecemos a las siguientes herramientas y recursos:
+Queremos expresar nuestro agradecimiento a todos aquellos que contribuyeron a este proyecto. TambiÃ©n agradecemos a las siguientes herramientas y recursos:
 
-- [Librería/FW 1](https://enlace-a-libreria.com)
+- [LibrerÃ­a/FW 1](https://enlace-a-libreria.com)
 - [Tutorial de Referencia](https://enlace-a-tutorial.com)
-- [Inspiración/Persona de Referencia](https://enlace-a-inspiracion.com)
+- [InspiraciÃ³n/Persona de Referencia](https://enlace-a-inspiracion.com)
 
 ---
 
-### ????? ¡Gracias por leer! Si tienes alguna pregunta, no dudes en abrir un **issue** o contactar a los autores.
+### ğŸ‘¨â€ğŸ’» Â¡Gracias por leer! Si tienes alguna pregunta, no dudes en abrir un **issue** o contactar a los autores.
 
 ---
 
 
-Desarrollado con ?? por [Miguel Núñez](https://github.com/miguelnunez15).
+Desarrollado con â¤ï¸ por [Miguel NÃºÃ±ez](https://github.com/miguelnunez15).
